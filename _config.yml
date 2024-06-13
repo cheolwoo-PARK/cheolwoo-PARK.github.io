@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "air" #"default", "air", "aqua", "contrast", "dark", 
 # Site Settings
 locale                   : "ko-KO"
 title                    : "개발은 어렵다"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "small positive action"# site tagline that appears below site title in masthead
 name                     : "박철우"
 description              : "임베디드 소프트웨어 개발자"
 url                      : "https://cheolwoo-PARK.github.io"
@@ -35,7 +35,7 @@ copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : "disqus"# false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "cheolwoo-park" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "cheolwoo-park"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -116,7 +116,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "임베디드 소프트웨어 개발자"
   location         : "대한민국 인천"
-  email            :
+  email            : "cwpark821029@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
